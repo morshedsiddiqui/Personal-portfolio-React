@@ -1,0 +1,63 @@
+body
+{
+    text-align: center;
+background-color: rgb(32, 32, 32);
+}
+#Albums{
+
+    font-size: 3em;
+    color: aliceblue;
+}
+header
+{
+    text-align: center;
+    background-color: black;
+}
+#HeaderPic
+{
+    height: 150px;
+
+}
+#footer{
+    color: aliceblue;
+    text-align: center;
+    font-size: 100%;
+}
+#introPara
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 1%;
+    padding-bottom: 20px;
+    text-align: center;
+    color: aliceblue;
+    line-height: 1.2;
+}
+#iglogo{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    height: 30px;
+}
+
+#fblogo{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    height: 35px;
+}
+#emailLogo{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    height: 35px;
+
+}
+
+#profilePic{
+    
+    height: 400px;
+    border-radius: 50%;
+    border: 5px solid rgb(140, 1, 1);
+}
+
+
